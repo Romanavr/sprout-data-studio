@@ -4,7 +4,7 @@
   "version" : "4.45.1",
   "license" : "proprietary",
   "require" : {
-    "Romanavr/sprout" : "^4.0.7",
+    "Romanavr/sprout" : "v4.x-dev",
     "craftcms/cms" : "^4.3.0"
   },
   "autoload" : {
