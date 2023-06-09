@@ -7,6 +7,8 @@
     "romanavr/sprout" : "v4.x-dev",
     "craftcms/cms" : "^4.3.0"
   },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
   "autoload" : {
     "psr-4" : {
       "BarrelStrength\\SproutDataStudio\\" : "src/"
