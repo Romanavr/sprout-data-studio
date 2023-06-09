@@ -20,7 +20,7 @@
     "developerEmail" : "support@barrelstrengthdesign.com",
     "documentationUrl" : "https://barrelstrengthdesign.com",
     "class" : "BarrelStrength\\SproutDataStudio\\SproutDataStudio"
-  }
+  },
   "repositories" : [
     {
       "type" : "vcs",
